@@ -1,7 +1,7 @@
 # AN OPEN LETTER TO OPEN-MINDED PROGRESSIVES
 
 ## CHAPTER 1: A HORIZON MADE OF CANVAS
-## MENCIUS MOLDBUG · APRIL 17, 2008
+MENCIUS MOLDBUG · APRIL 17, 2008
 
 Are you an open-minded progressive? Maybe not, but you probably have friends who are. This is for them. Perhaps it can serve as a sort of introduction to this strange blog, Unqualified Reservations.
 
@@ -239,7 +239,7 @@ Upon this, one has to remark that men ought either to be well treated or crushed
 4. Usually rendered in English as “No enemies to the left, no friends to the right.”
 
 
-CHAPTER 2: MORE HISTORICAL ANOMALIES
+## CHAPTER 2: MORE HISTORICAL ANOMALIES
 MENCIUS MOLDBUG · APRIL 24, 2008
 
 
@@ -745,46 +745,10 @@ More subtly, however, the real entropic effect is in the progressive method of c
 
 1. An archival copy of the picture in question is available at www.unqualified-reservations.org/images/obama-teaching-alinsky.jpg.
 2. For a neoreactionary analysis that disagrees strongly with this sanguine view of homosexuality, see “Gay needs to be suppressed” by James Donald. In brief: destroying homophobia imposes major societal costs, including a negative impact on public health, a lowering of the relative status of heterosexual relationships (thereby depressing fertility), and the introduction of a signaling hazard that undermines male group cohesion (which is especially critical for the Männerbund identified by Julius Evola in Men Among the Ruins).
-Ch. 1
-Ch. 2
-Ch. 3
-Ch. 4
-Ch. 5
-Ch. 6
-Ch. 7
-Ch. 8
-Ch. 9
-Ch. X
-Ch. XI
-Ch. XII
-Ch. XIII
-Ch. XIV
-« previousnext »
-UNQUALIFIED RESERVATIONS. Copyright © 2007–2016 by Mencius Moldbug.
 
-UR
-
-AN OPEN LETTER TO OPEN-MINDED PROGRESSIVES
-Support Mencius Moldbug by purchasing the Kindle eBook.
-
-An Open Letter to Open-Minded Progressives
-AN OPEN LETTER TO OPEN-MINDED PROGRESSIVES
-CHAPTER 4: DR. JOHNSON’S HYPOTHESIS
+## CHAPTER 4: DR. JOHNSON’S HYPOTHESIS
 MENCIUS MOLDBUG · MAY 8, 2008
-Ch. 1
-Ch. 2
-Ch. 3
-Ch. 4
-Ch. 5
-Ch. 6
-Ch. 7
-Ch. 8
-Ch. 9
-Ch. X
-Ch. XI
-Ch. XII
-Ch. XIII
-Ch. XIV
+
 In the first three chapters, dear open-minded progressive, we’ve tried to build up some tools that will help you evaluate the disturbing proposition we’re about to present.
 
 The proposition is neither new nor mysterious. We’ll call it Dr. Johnson’s hypothesis—from this quip by the great Doctor:
@@ -992,46 +956,10 @@ Lest we forget at least an over-the-shoulder acknowledgment to the very first ra
 3. The entertainment industry arguably belongs on this list as well.
 4. This terminology is not meant to disparage real cathedrals, which of course even nonreligious reactionaries adore. The main rhetorical point is that those who promulgate the Synopsis are, despite their avowed secularism and faux egalitarianism, in effect a theocratic priestly class.
 5. I.e., “Who rules whom?” See Chapter 7.
-Ch. 1
-Ch. 2
-Ch. 3
-Ch. 4
-Ch. 5
-Ch. 6
-Ch. 7
-Ch. 8
-Ch. 9
-Ch. X
-Ch. XI
-Ch. XII
-Ch. XIII
-Ch. XIV
-« previousnext »
-UNQUALIFIED RESERVATIONS. Copyright © 2007–2016 by Mencius Moldbug.
 
-UR
-
-AN OPEN LETTER TO OPEN-MINDED PROGRESSIVES
-Support Mencius Moldbug by purchasing the Kindle eBook.
-
-An Open Letter to Open-Minded Progressives
-AN OPEN LETTER TO OPEN-MINDED PROGRESSIVES
-CHAPTER 5: THE SHORTEST WAY TO WORLD PEACE
+## CHAPTER 5: THE SHORTEST WAY TO WORLD PEACE
 MENCIUS MOLDBUG · MAY 15, 2008
-Ch. 1
-Ch. 2
-Ch. 3
-Ch. 4
-Ch. 5
-Ch. 6
-Ch. 7
-Ch. 8
-Ch. 9
-Ch. X
-Ch. XI
-Ch. XII
-Ch. XIII
-Ch. XIV
+
 After four loping and windy installments, in this chapter I thought I’d vary the formula. Instead of an open letter to open-minded progressives at large, this is an open letter to just one: Charles Stross, the science-fiction writer.
 
 My first excuse for this audacity is that I know Charlie—sort of. At least, we hung out on the same Usenet group in the early ’90s, when he was an aspiring novelist and I was an annoying teenager. Frankly, anyone who could tolerate me even slightly in my Rimbaud period is too supine to protest at any atrocity I could possibly perpetrate now.
@@ -1539,46 +1467,9 @@ There was a funny article the other day in the Times. It seems Kuwaitis have not
 
 The great wave of Whiggery has washed to the end of the world and the top of the beach. Its source is not moral righteousness, but mere power. That power is waning. It still looks like the future, but not as much as it used to. Patches of sand are starting to show through the water. Will another wave come? Or will the water just wash back? And if so, will it wash back slowly, or will it all just disappear one day, the way Communism did?
 
-Ch. 1
-Ch. 2
-Ch. 3
-Ch. 4
-Ch. 5
-Ch. 6
-Ch. 7
-Ch. 8
-Ch. 9
-Ch. X
-Ch. XI
-Ch. XII
-Ch. XIII
-Ch. XIV
-« previousnext »
-UNQUALIFIED RESERVATIONS. Copyright © 2007–2016 by Mencius Moldbug.
-
-UR
-
-AN OPEN LETTER TO OPEN-MINDED PROGRESSIVES
-Support Mencius Moldbug by purchasing the Kindle eBook.
-
-An Open Letter to Open-Minded Progressives
-AN OPEN LETTER TO OPEN-MINDED PROGRESSIVES
-CHAPTER 6: THE LOST THEORY OF GOVERNMENT
+## CHAPTER 6: THE LOST THEORY OF GOVERNMENT
 MENCIUS MOLDBUG · MAY 22, 2008
-Ch. 1
-Ch. 2
-Ch. 3
-Ch. 4
-Ch. 5
-Ch. 6
-Ch. 7
-Ch. 8
-Ch. 9
-Ch. X
-Ch. XI
-Ch. XII
-Ch. XIII
-Ch. XIV
+
 The best way to understand government is to assume everything you know about it is nonsense. Or so at least I claimed in Chapter 5. Let’s demonstrate it by solving the problem from scratch.
 
 Growing up in the modern Western world, you learned that in all pre-modern, non-Western societies, everyone—even the smartest and most knowledgeable—put their faith in theories of government now known to be nonsensical. The divine right of kings. The apostolic succession of the Pope. The Marxist evolution of history. Etc.
@@ -1768,46 +1659,11 @@ Once we realize that 21st-century technology is needed to implement the neocamer
 Was royalism a perfect system? It was not. But if we imagine a world in which the revolutions and civil wars of the last four centuries had never happened, it is hard not to imagine that world as happier, wealthier, freer, more civilized, and more pleasant. At least if you’re an unregenerate Jacobite like me.
 
 1. An Open Letter was written before Jobs’ untimely death in 2011.
-Ch. 1
-Ch. 2
-Ch. 3
-Ch. 4
-Ch. 5
-Ch. 6
-Ch. 7
-Ch. 8
-Ch. 9
-Ch. X
-Ch. XI
-Ch. XII
-Ch. XIII
-Ch. XIV
-« previousnext »
-UNQUALIFIED RESERVATIONS. Copyright © 2007–2016 by Mencius Moldbug.
-
-UR
 
 AN OPEN LETTER TO OPEN-MINDED PROGRESSIVES
-Support Mencius Moldbug by purchasing the Kindle eBook.
-
-An Open Letter to Open-Minded Progressives
-AN OPEN LETTER TO OPEN-MINDED PROGRESSIVES
-CHAPTER 7: THE UGLY TRUTH ABOUT GOVERNMENT
+## CHAPTER 7: THE UGLY TRUTH ABOUT GOVERNMENT
 MENCIUS MOLDBUG · MAY 29, 2008
-Ch. 1
-Ch. 2
-Ch. 3
-Ch. 4
-Ch. 5
-Ch. 6
-Ch. 7
-Ch. 8
-Ch. 9
-Ch. X
-Ch. XI
-Ch. XII
-Ch. XIII
-Ch. XIV
+
 In Chapter 6, dear open-minded progressive, we worked through a clean-room redesign of government. The result had no resemblance to present institutions—and little resemblance to past ones. Should this surprise you? Do you expect history’s fruits to be sweet?
 
 In this chapter we’ll look at what those fruits actually are. Perhaps you didn’t spend your eleventh-grade civics class hanging out behind the goalposts smoking cheeba. (If you are still in eleventh-grade civics class, it’s much more exciting if you’re stoned.) Perhaps you even read the Times on a regular basis. (The Times is even more awful when you’re stoned.) Perhaps you assume, by default, that the vast parade of facts poured into your head by this and other such reliable sources must constitute at least a basic understanding.
@@ -2106,46 +1962,9 @@ In Chapter 8, we try and figure out what to do if the answer turns out to be “
 
 While at university, in one Greek prose examination lasting three hours, he was asked to translate a passage into Greek. Powell walked out after one and a half hours, having produced translations in the styles of Plato and Thucydides. For his efforts, he was awarded a double starred first in Latin and Greek, this grade being the best possible and extremely rare.
 
-Ch. 1
-Ch. 2
-Ch. 3
-Ch. 4
-Ch. 5
-Ch. 6
-Ch. 7
-Ch. 8
-Ch. 9
-Ch. X
-Ch. XI
-Ch. XII
-Ch. XIII
-Ch. XIV
-« previousnext »
-UNQUALIFIED RESERVATIONS. Copyright © 2007–2016 by Mencius Moldbug.
-
-UR
-
-AN OPEN LETTER TO OPEN-MINDED PROGRESSIVES
-Support Mencius Moldbug by purchasing the Kindle eBook.
-
-An Open Letter to Open-Minded Progressives
-AN OPEN LETTER TO OPEN-MINDED PROGRESSIVES
-CHAPTER 8: A RESET IS NOT A REVOLUTION
+## CHAPTER 8: A RESET IS NOT A REVOLUTION
 MENCIUS MOLDBUG · JUNE 5, 2008
-Ch. 1
-Ch. 2
-Ch. 3
-Ch. 4
-Ch. 5
-Ch. 6
-Ch. 7
-Ch. 8
-Ch. 9
-Ch. X
-Ch. XI
-Ch. XII
-Ch. XIII
-Ch. XIV
+
 So, dear open-minded progressive, in Chapter 7 we established who runs the world: you do. Or rather, people who agree with you do. Or hopefully, people you used to agree with do.
 
 I can hope, right? In this chapter, we’ll do a little more than hope. We’ll also look at change.
@@ -2389,46 +2208,10 @@ And it will happen. You may not even need an absolute majority. The modern regim
 The truth about the people who work for government is that, in general, they despise it. They are demoralized and disillusioned. They have slightly more excitement and energy than your average Stasi employee circa 1988, but not much. Working for the government in 1938 was incredible, unbelievable fun. Working for the government in 2008 is soul-destroying. If you gave the entire civil service an opportunity to retire tomorrow on full pay, nine out of ten would take it, and lick your hand like golden retrievers for the offer.
 
 1. As noted in Chapter 1, this is French for “No enemies to the left, no friends to the right.”
-Ch. 1
-Ch. 2
-Ch. 3
-Ch. 4
-Ch. 5
-Ch. 6
-Ch. 7
-Ch. 8
-Ch. 9
-Ch. X
-Ch. XI
-Ch. XII
-Ch. XIII
-Ch. XIV
-« previousnext »
-UNQUALIFIED RESERVATIONS. Copyright © 2007–2016 by Mencius Moldbug.
 
-UR
-
-AN OPEN LETTER TO OPEN-MINDED PROGRESSIVES
-Support Mencius Moldbug by purchasing the Kindle eBook.
-
-An Open Letter to Open-Minded Progressives
-AN OPEN LETTER TO OPEN-MINDED PROGRESSIVES
-CHAPTER 9: HOW TO UNINSTALL A CATHEDRAL
+## CHAPTER 9: HOW TO UNINSTALL A CATHEDRAL
 MENCIUS MOLDBUG · JUNE 12, 2008
-Ch. 1
-Ch. 2
-Ch. 3
-Ch. 4
-Ch. 5
-Ch. 6
-Ch. 7
-Ch. 8
-Ch. 9
-Ch. X
-Ch. XI
-Ch. XII
-Ch. XIII
-Ch. XIV
+
 I’m afraid, dear open-minded progressive, that we have wandered into deep and murky waters. You thought you were merely in for a bit of philosophical wrangling. Instead here we are, openly conspiring to restore the Stuarts.
 
 The other day in an old book I found a cute little summary of the problem. The book is Carlton Hayes’ History of Modern Europe, first published in 1916 and updated in 1924. Writing about modern Europe without mentioning America is a little like writing about the Lakers without mentioning Kobe Bryant, and in the 1924 addendum Professor Hayes simply gives up the ghost and tells us what’s happened lately in the Western world. Of course I simply adore these kinds of contemporary digests. Here is the state of Protestant Christianity, circa 1924:
@@ -2682,46 +2465,10 @@ And how could this be accomplished? Obviously, it can’t be.
 3. As noted previously, it appears that Ms. Latte’s blog is now defunct, and all the old posts have been removed.
 4. Obviously, there are many movies, TV shows, etc., that are accused of being racist, but they are not openly, proudly racist in the same way that, e.g., 12 Years a Slave is openly, proudly anti-racist.
 5. As noted in Chapter 1, this formulation of Machiavelli’s ideas is attributed to Ralph Waldo Emerson.
-Ch. 1
-Ch. 2
-Ch. 3
-Ch. 4
-Ch. 5
-Ch. 6
-Ch. 7
-Ch. 8
-Ch. 9
-Ch. X
-Ch. XI
-Ch. XII
-Ch. XIII
-Ch. XIV
-« previousnext »
-UNQUALIFIED RESERVATIONS. Copyright © 2007–2016 by Mencius Moldbug.
 
-UR
-
-AN OPEN LETTER TO OPEN-MINDED PROGRESSIVES
-Support Mencius Moldbug by purchasing the Kindle eBook.
-
-An Open Letter to Open-Minded Progressives
-AN OPEN LETTER TO OPEN-MINDED PROGRESSIVES
-CHAPTER X: A SIMPLE SOVEREIGN BANKRUPTCY PROCEDURE
+## CHAPTER X: A SIMPLE SOVEREIGN BANKRUPTCY PROCEDURE
 MENCIUS MOLDBUG · JUNE 19, 2008
-Ch. 1
-Ch. 2
-Ch. 3
-Ch. 4
-Ch. 5
-Ch. 6
-Ch. 7
-Ch. 8
-Ch. 9
-Ch. X
-Ch. XI
-Ch. XII
-Ch. XIII
-Ch. XIV
+
 Dear open-minded progressive, as we reach Chapter X it is time for some administrivia.
 
 First, we are switching to Roman numerals. At least past 10, they are just classier. Also, if anyone wants to provide design suggestions, or what would be even more super-duper graphics, logos, templates, free hosting, free money, free beer, or even just free parenting advice, they may of course contact me at the usual address, linked to over on the right.1
@@ -3029,46 +2776,10 @@ From the standpoint of a society from which all forms of modern barbarism have b
 For example, I simply can’t imagine what it would be like to live in San Francisco if there were fifty or sixty leopards loose in the city. But I can see how people would get used to it. Leopards are nocturnal, so you stay in at night. They hide in trees, so you cut down the trees. They tend to hunt in certain areas, so you avoid those areas. And the situation could develop gradually—the first leopard is a huge news story, the second is a smaller story, and they build up over time. After a while, the experience of walking down the street while checking for leopards would strike you as completely normal and unremarkable. If one day the leopards were removed, however, you would definitely notice it.
 
 1. Moldbug’s email address is no longer linked from the Unqualified Reservations blog.
-Ch. 1
-Ch. 2
-Ch. 3
-Ch. 4
-Ch. 5
-Ch. 6
-Ch. 7
-Ch. 8
-Ch. 9
-Ch. X
-Ch. XI
-Ch. XII
-Ch. XIII
-Ch. XIV
-« previousnext »
-UNQUALIFIED RESERVATIONS. Copyright © 2007–2016 by Mencius Moldbug.
 
-UR
-
-AN OPEN LETTER TO OPEN-MINDED PROGRESSIVES
-Support Mencius Moldbug by purchasing the Kindle eBook.
-
-An Open Letter to Open-Minded Progressives
-AN OPEN LETTER TO OPEN-MINDED PROGRESSIVES
-CHAPTER XI: THE TRUTH ABOUT LEFT AND RIGHT
+## CHAPTER XI: THE TRUTH ABOUT LEFT AND RIGHT
 MENCIUS MOLDBUG · JUNE 26, 2008
-Ch. 1
-Ch. 2
-Ch. 3
-Ch. 4
-Ch. 5
-Ch. 6
-Ch. 7
-Ch. 8
-Ch. 9
-Ch. X
-Ch. XI
-Ch. XII
-Ch. XIII
-Ch. XIV
+
 Dear open-minded progressive, perhaps you were horrified by Chapter X.
 
 I mean, I did propose the liquidation of democracy, the Constitution and the rule of law, and the transfer of absolute power to a mysterious figure known only as the Receiver, who in the process of converting Washington into a heavily-armed, ultra-profitable corporation will abolish the press, smash the universities, sell the public schools, and transfer “decivilized populations” to “secure relocation facilities” where they will be assigned to “mandatory apprenticeships.” If this doesn’t horrify you, I’m not sure what would.
@@ -3303,46 +3014,9 @@ This is why the search for the essential principle, the nomos, the philosopher�
 
 This, in a word, is organization. And organization is what gets things done.
 
-Ch. 1
-Ch. 2
-Ch. 3
-Ch. 4
-Ch. 5
-Ch. 6
-Ch. 7
-Ch. 8
-Ch. 9
-Ch. X
-Ch. XI
-Ch. XII
-Ch. XIII
-Ch. XIV
-« previousnext »
-UNQUALIFIED RESERVATIONS. Copyright © 2007–2016 by Mencius Moldbug.
-
-UR
-
-AN OPEN LETTER TO OPEN-MINDED PROGRESSIVES
-Support Mencius Moldbug by purchasing the Kindle eBook.
-
-An Open Letter to Open-Minded Progressives
-AN OPEN LETTER TO OPEN-MINDED PROGRESSIVES
-CHAPTER XII: WHAT IS TO BE DONE?
+## CHAPTER XII: WHAT IS TO BE DONE?
 MENCIUS MOLDBUG · JULY 2, 2008
-Ch. 1
-Ch. 2
-Ch. 3
-Ch. 4
-Ch. 5
-Ch. 6
-Ch. 7
-Ch. 8
-Ch. 9
-Ch. X
-Ch. XI
-Ch. XII
-Ch. XIII
-Ch. XIV
+
 Dear open-minded progressive, every true conversation is a whole life long. (Isn’t that the sort of thing a progressive would say? I can almost imagine it on a Starbucks cup.) Also, every journey starts with a single step, and all good things come to an end. And no meeting may adjourn without action items.
 
 So, in the famous words of Lenin, what is to be done? As briefly as possible without jeopardizing UR’s reputation for pompous prolixity, let’s review the problem.
@@ -3526,46 +3200,10 @@ Yet at the same time, we can’t expect the truth to triumph on its own, because
 So perhaps nothing can be done. We should just bend over and enjoy it. Do you, dear open-minded progressive (or other UR reader), have any suggestions?
 
 1. See “Completing the Groundwork of a Feudal Hierarchy of Sovereign Corporations” and “Evolving a Feudal Stack of Sovereign Corporations” for more on this sort of bottom-up neo-feudal design.
-Ch. 1
-Ch. 2
-Ch. 3
-Ch. 4
-Ch. 5
-Ch. 6
-Ch. 7
-Ch. 8
-Ch. 9
-Ch. X
-Ch. XI
-Ch. XII
-Ch. XIII
-Ch. XIV
-« previousnext »
-UNQUALIFIED RESERVATIONS. Copyright © 2007–2016 by Mencius Moldbug.
 
-UR
-
-AN OPEN LETTER TO OPEN-MINDED PROGRESSIVES
-Support Mencius Moldbug by purchasing the Kindle eBook.
-
-An Open Letter to Open-Minded Progressives
-AN OPEN LETTER TO OPEN-MINDED PROGRESSIVES
-CHAPTER XIII: TACTICS AND STRUCTURES OF ANY PROSPECTIVE RESTORATION
+## CHAPTER XIII: TACTICS AND STRUCTURES OF ANY PROSPECTIVE RESTORATION
 MENCIUS MOLDBUG · JULY 10, 2008
-Ch. 1
-Ch. 2
-Ch. 3
-Ch. 4
-Ch. 5
-Ch. 6
-Ch. 7
-Ch. 8
-Ch. 9
-Ch. X
-Ch. XI
-Ch. XII
-Ch. XIII
-Ch. XIV
+
 Dear open-minded progressive, I’ve been holding out on this one way too long. What is to be done? Let’s try and actually answer the question this time.
 
 To be precise: by what procedures might a 20th-century liberal democracy be converted, safely, permanently and with reasonable continuity of administration, into a sovereign corporation that can be trusted to deliver secure, reliable and effective government? If you, dear open-minded progressive, chose to agree with me that this is actually a good idea, how might we go about trying to make it happen?
@@ -3735,46 +3373,10 @@ So we have a nice, clear, laser-like program. Washington has failed. The Constit
 1. In A Gentle Introduction to Unqualified Reservations, Moldbug proposes a refinement to neocameralism called a joint-stock republic, which avoids this issue by replacing ordinary votes with negotiable shares. A joint-stock republic is still arguably a “universal-suffrage democracy,” only with voting according to shares instead of a simple counting of heads. The principle that needs to be abandoned then is not democracy itself—a rather hard sell in this day and age—but the much more weakly held principle of “one person, one vote.”
 2. Actually, many advocates of the “wisdom of crowds” do believe this, the idea being that errors tend to cancel out when individual opinions are independent. But Moldbug’s broader point—that, all things being equal, improving the quality of individual judgment improves the quality of the crowd—still holds.
 3. As noted above, the joint-stock republic developed in A Gentle Introduction to Unqualified Reservations avoids this step by converting ordinary votes to negotiable shares, which preserves “universal suffrage” while providing a financial incentive for less qualified voters to transfer their shares to more qualified ones.
-Ch. 1
-Ch. 2
-Ch. 3
-Ch. 4
-Ch. 5
-Ch. 6
-Ch. 7
-Ch. 8
-Ch. 9
-Ch. X
-Ch. XI
-Ch. XII
-Ch. XIII
-Ch. XIV
-« previousnext »
-UNQUALIFIED RESERVATIONS. Copyright © 2007–2016 by Mencius Moldbug.
 
-UR
-
-AN OPEN LETTER TO OPEN-MINDED PROGRESSIVES
-Support Mencius Moldbug by purchasing the Kindle eBook.
-
-An Open Letter to Open-Minded Progressives
-AN OPEN LETTER TO OPEN-MINDED PROGRESSIVES
-CHAPTER XIV: RULES FOR REACTIONARIES
+## CHAPTER XIV: RULES FOR REACTIONARIES
 MENCIUS MOLDBUG · JULY 17, 2008
-Ch. 1
-Ch. 2
-Ch. 3
-Ch. 4
-Ch. 5
-Ch. 6
-Ch. 7
-Ch. 8
-Ch. 9
-Ch. X
-Ch. XI
-Ch. XII
-Ch. XIII
-Ch. XIV
+
 Dear open-minded progressive, I hope you’ve enjoyed this weird excursion.
 
 We all like to think we have open minds, but only a few of us are tough enough to snort any strange powder that’s shoved under our noses. You have joined that elite crew. Thirteen chapters ago you may have been a mere space cadet. Now you are at least a space lieutenant, perhaps even a captain or a major. And what fresh galaxies remain to explore!
@@ -4261,19 +3863,3 @@ The Cathedral is called the Cathedral for another reason: it’s not the Bazaar.
 
 1. Moldbug refers here to the general philosophy of valuing individual liberty and minimal government, not libertarianism as a political movement. See Moldbug on Carlyle and “Why I am not a libertarian” for more.
 2. In recent years, it has also become increasingly clear that Snopes is hopelessly biased on any subject related to politics.
-Ch. 1
-Ch. 2
-Ch. 3
-Ch. 4
-Ch. 5
-Ch. 6
-Ch. 7
-Ch. 8
-Ch. 9
-Ch. X
-Ch. XI
-Ch. XII
-Ch. XIII
-Ch. XIV
-« previousnext »
-UNQUALIFIED RESERVATIONS. Copyright © 2007–2016 by Mencius Moldbug.
