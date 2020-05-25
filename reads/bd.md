@@ -1,24 +1,42 @@
 ## Based Deleuze
 ### Justin Murphy
 
+///////////////////////////////////////////////////////////////////////////
+
 ### Contents 
 
 Preface
+
 1 /// Some Terminology
+
 2 /// On Troubled Land
+
 3 /// Decentralized Pronomianism
+
 4 /// Bearing One’s Cross
+
 5 /// The Eternal Return
+
 6 /// Creativity Is Submission
+
 7 /// A Fascist Mother, “The Best of Women”
+
 8 /// From Christ to the Bourgeoisie
+
 9 /// Deleuzo-Petersonianism
+
 10 // HBDeleuze
+
 11 // Becoming Imperceptible
+
 12 // Accelerate the Process
+
 13 // The Real, The Evolved, and the Traditional
+
 14 // Becoming Minority
+
 Acknowledgments
+
 References
 
 ### Preface 
